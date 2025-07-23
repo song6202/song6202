@@ -6,3 +6,4 @@
   - CI/CD调研:gitlab、jenkins
   - GraphML、XML、HTML
   - Python
+  - python: openpyxl
